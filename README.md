@@ -13,8 +13,6 @@ CineView je moderní a plně responzivní webová aplikace postavená pomocí Re
 
 ## 📸 Náhled aplikace
 
-*(Doporučuji sem vložit finální screenshot nebo krátký GIF, jak vaše aplikace vypadá v akci. Nahrajte ho do repozitáře a upravte cestu.)*
-
 ![image](https://github.com/user-attachments/assets/93975f21-2a6f-4787-adfc-f72977b614e1)
 
 
